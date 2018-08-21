@@ -1,5 +1,5 @@
 # Giplum[WIP]
-Generate uml image by PlantUML via git managed uml plain text.
+Generate uml image by PlantUML via GitHub managed uml plain text.
 
 # Usage[WIP]
 This URL return uml image by PlantUML.
